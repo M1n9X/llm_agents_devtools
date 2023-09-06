@@ -150,7 +150,9 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [Phind-CodeLlama-34B-v1](https://huggingface.co/Phind/Phind-CodeLlama-34B-v1) - Beating GPT-4 on HumanEval with a Fine-Tuned CodeLlama-34B.
 - [StarCoder](https://github.com/bigcode-project/starcoder) - A helpful coding assistant.
 - [WizardCoder](https://github.com/nlpxucan/WizardLM/tree/main/WizardCoder) - Empowering Code Large Language Models with Evol-Instruct.
+- [gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models.
 - [incoder](https://github.com/dpfried/incoder) - A Generative Model for Code Infilling and Synthesis.
+- [privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks.
 - [replit-code-v1-3b](https://huggingface.co/replit/replit-code-v1-3b) - A 2.7B Causal Language Model focused on Code Completion.
 
 ## IDEs

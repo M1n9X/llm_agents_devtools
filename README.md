@@ -87,6 +87,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [OpenCopilot](https://github.com/openchatai/OpenCopilot) - AI Copilot for your own SaaS product. Open source AI sidekick for everyone.
 - [Pico](https://picoapps.xyz) - End-to-end micro app generator with instant deployment.
 - [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - PoC for a scalable dev tool that writes entire apps from scratch while the developer oversees the implementation.
+- [textbase](https://github.com/cofactoryai/textbase) - A simple framework for building AI chatbots.
 
 ## Coding Assistants
 
@@ -149,6 +150,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [Magic](https://magic.dev/) — Company promising two products, an assistant and [LTM-1](https://magic.dev/blog/ltm-1), an underlying foundation model trained on code. Waitlist.
 - [Phind-CodeLlama-34B-v1](https://huggingface.co/Phind/Phind-CodeLlama-34B-v1) - Beating GPT-4 on HumanEval with a Fine-Tuned CodeLlama-34B.
 - [StarCoder](https://github.com/bigcode-project/starcoder) - A helpful coding assistant.
+- [TinyLlama](https://github.com/jzhang38/TinyLlama) - An open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.
 - [WizardCoder](https://github.com/nlpxucan/WizardLM/tree/main/WizardCoder) - Empowering Code Large Language Models with Evol-Instruct.
 - [gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models.
 - [incoder](https://github.com/dpfried/incoder) - A Generative Model for Code Infilling and Synthesis.

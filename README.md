@@ -43,7 +43,6 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [GitWit](https://gitwit.dev/) — Web-based agent for adding features to full-stack apps in Git repositories.
 - [Gorilla](https://github.com/ShishirPatil/gorilla) - Large Language Model Connected with Massive APIs.
 - [Grit](https://app.grit.io) - GitHub-integrated agent for automating maintenance tasks and other development work.
-- [Mentat](https://www.mentat.codes/) — CLI assistant and agent that makes changes to repositories.
 - [SalesGPT](https://github.com/filip-michalsky/SalesGPT) - Context-aware AI Sales Agent to automate sales outreach.
 - [Second.dev](https://www.second.dev/) — A platform for adding features to full-stack apps.
 - [ShortGPT](https://github.com/RayVentura/ShortGPT) - Experimental AI framework for automated short/video content creation.
@@ -71,7 +70,6 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [Gentopia](https://github.com/Gentopia-AI/Gentopia) - Build AGI through Interaction of Specialized Agents.
 - [JARVIS](https://github.com/microsoft/JARVIS) - A system to connect LLMs with ML community.
 - [LLM-ToolMaker](https://github.com/ctlllll/LLM-ToolMaker) - Large Language Models as Tool Makers.
-- [Morph Rift](https://github.com/morph-labs/rift) — Open source VS Code extension that allows merging the output of code generation agents.
 - [OpenAGI](https://github.com/agiresearch/OpenAGI) - An open-source AGI research platform, specifically designed to offer complex, multi-step tasks and accompanied by task-specific datasets, evaluation metrics, and a diverse range of extensible models.
 - [PromethAI-Backend](https://github.com/topoteretes/PromethAI-Backend) - Open-source framework that gives you AI Agents that help you navigate decision-making, get personalized goals and execute them.
 - [ReWOO](https://github.com/billxbf/ReWOO) - Decoupling Reasoning from Observations for Efficient Augmented Language Models.
@@ -120,7 +118,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [Quack AI](https://www.quack-ai.com/) — VS Code extension for adhering to project coding guidelines. Waitlist.
 - [Refact AI](https://refact.ai/) [Source](https://github.com/smallcloudai/refact) — Open source assistant with chat, completion, refactoring, and codebase-specific fine-tuning. Extensions for VS Code and JetBrains.
 - [Replit Ghostwriter Chat](https://replit.com/site/ghostwriter) — Assistant built into [Replit](https://replit.com/) with chat, proactive debugging, and autocomplete. Uses OpenAI for chat and [replit-code-v1-3b](https://huggingface.co/replit/replit-code-v1-3b) (OS) for autocomplete.
-- [Rift](https://github.com/morph-labs/rift) - An AI-native language server for your personal AI software engineer (github.com)
+- [Rift](https://github.com/morph-labs/rift) - An AI-native language server for your personal AI software engineer.
 - [Source Graph Cody](https://about.sourcegraph.com/cody) - Assistant with chat, refactoring, and unit test generation. Extensions for VS Code and IntelliJ. Also available as a web app.
 - [Tabby](https://tabbyml.github.io/tabby/) — Open source, self-hosted code completion assistant. Extensions for VS Code and Vim.
 - [Tabnine](https://www.tabnine.com/) [(Source)](https://github.com/codota/TabNine) — Open source, self-hosted code completion assistant. Extensions for 15 editors including VS Code, IntelliJ, Neovim, Eclipse, and PyCharm.
@@ -243,6 +241,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 
 - [AskCommand](https://www.askcommand.cppexpert.online/) - Web based tool to generate Unix commands from text automatically using AI.
 - [Butterfish](https://butterfi.sh) - CLI tool that embeds ChatGPT in your shell for easy access. Includes simple agentic capabilities.
+- [Mentat](https://github.com/biobootloader/mentat) — CLI assistant and agent that makes changes to repositories.
 - [Shell-AI](https://github.com/ricklamers/shell-ai) - LangChain powered shell command generate and run CLI.
 - [aider](https://github.com/paul-gauthier/aider) - AI pair programming in your terminal.
 

@@ -174,12 +174,14 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 
 ## LLMOps
 
+- [AGiXT](https://github.com/Josh-XT/AGiXT) - A dynamic AI Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers.
 - [Carbonate](https://carbonate.dev/) — End-to-end testing using natural language. Integrates into your existing test suite (currently Jest, PHPUnit and Python's unittest).
 - [DiffBlue](https://www.diffblue.com/) - Automatically generated unit tests for Java.
-- [Helicone/helicone (github.com)](https://github.com/Helicone/helicone)
 - [Meticulous.ai](https://www.meticulous.ai/) - Automatically generated, automatically maintained end-to-end tests: as your app evolves so does your test suite.
 - [OctoMind](https://octomind.dev) - Auto-maintenance and generated browser-based end-to-end-tests integrated into Github Actions, Azure DevOps and more.
 - [Traceloop](https://traceloop.com/) - Uses OpenTelemetry tracing data with generative AI to improve system reliability.
+- [helicone](https://github.com/Helicone/helicone) - An open-source observability platform for Language Learning Models (LLMs).
+- [langfuse](https://github.com/langfuse/langfuse) - Open source observability and analytics for LLM applications.
 
 ## OpenAI Plugins
 

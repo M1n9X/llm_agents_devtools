@@ -28,6 +28,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [Aider](https://github.com/paul-gauthier/aider) — CLI assistant and agent that generates changes and commits to repositories. Uses OpenAI.
 - [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) — An experimental open-source attempt to make GPT-4 fully autonomous.
 - [BabyAGI](https://github.com/yoheinakajima/babyagi) — An AI-powered task management system.
+- [BambooAI](https://github.com/pgalko/BambooAI) - A lightweight library that leverages Language Models (LLMs) to enable natural language interactions, allowing you to source and converse with data.
 - [BlockAGI](https://github.com/orgexyz/BlockAGI) - Your Self-Hosted, Hackable Research Agent Inspired by AutoGPT.
 - [CAMEL](https://github.com/camel-ai/camel) - Communicative Agents for “Mind” Exploration of Large Scale Language Model Society.
 - [Chat-Haruhi-Suzumiya](https://github.com/LC1332/Chat-Haruhi-Suzumiya) - Reviving Anime Character in Reality via Large Language Model.
@@ -51,6 +52,8 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [Transformers Agent](https://huggingface.co/docs/transformers/transformers_agents) - HuggingFace Transformers Agent offer a natural language API built on transformers and a curated set of tools. An agent interprets user natural language input & use tools to fulfil the user request.
 - [Tree of Thoughts](https://github.com/princeton-nlp/tree-of-thought-llm) - Deliberate Problem Solving with Large Language Models.
 - [WebArena](https://github.com/web-arena-x/webarena) - A Realistic Web Environment for Building Autonomous Agents.
+- [automata](https://github.com/emrgnt-cmplxty/automata) - Automata's objective is to evolve into a fully autonomous, self-programming Artificial Intelligence system.
+- [beebot](https://github.com/AutoPackAI/beebot) - An Autonomous AI Agent that works.
 - [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic.
 - [gpt_academic](https://github.com/binary-husky/gpt_academic) - 为 ChatGPT/GLM 提供图形交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&amp;函数插件，支持 Python 和 C++等项目剖析&amp;自译解功能，PDF/LaTex 论文翻译&amp;总结功能，支持并行问询多种 LLM 模型，支持 chatglm2 等本地模型。兼容文心一言, moss, llama2, rwkv, claude2, 通义千问, 书生, 讯飞星火等。
 - [loopgpt](https://github.com/farizrahman4u/loopgpt) - A re-implementation of the popular Auto-GPT project as a proper python package, written with modularity and extensibility in mind.
@@ -72,6 +75,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [SuperAGI](https://superagi.com/) Open source platform for hosting LLM-based agents including [SuperCoder](https://superagi.com/supercoder/).
 - [ToolBench](https://github.com/OpenBMB/ToolBench) - An open platform for training, serving, and evaluating large language model for tool learning.
 - [XLang](https://github.com/xlang-ai/xlang) - An Open-Source Framework for Building Language Model Agents via Executable Language Grounding.
+- [ai-legion](https://github.com/eumemic/ai-legion) - An LLM-powered autonomous agent platform.
 - [chidori](https://github.com/ThousandBirdsInc/chidori) - A reactive runtime for building durable AI agents.
 - [ix](https://github.com/kreneskyp/ix) - Autonomous GPT-4 agent platform.
 - [lagent](https://github.com/InternLM/lagent) - A lightweight framework for building LLM-based agents.
@@ -195,6 +199,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 
 ## PR Agents
 
+- [AutoPR](https://github.com/irgolic/AutoPR) - Fix issues with AI-generated pull requests, powered by ChatGPT.
 - [BitBuilder](https://www.bitbuilder.ai/) — A GitHub integration to generate pull requests from issues.
 - [Code Review GPT](https://github.com/mattzcarey/code-review-gpt) — An open source tool for reviewing PRs. Works as GitHub action, Gitlab CLI or locally.
 - [CodeRabbit](https://coderabbit.ai/) — Customizable CI to add summaries and code suggestions to PRs.

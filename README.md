@@ -127,6 +127,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [ai-jsx](https://github.com/fixie-ai/ai-jsx) - The AI Application Framework for Javascript.
 - [ax](https://github.com/axilla-io/ax) - A comprehensive AI framework for TypeScript.
 - [clippinator](https://github.com/ennucore/clippinator) - AI programming assistant.
+- [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - Open source implementation of the ChatGPT Code Interpreter 👾
 - [cody](https://github.com/sourcegraph/cody) - AI that knows your entire codebase.
 - [gpt-migrate](https://github.com/0xpayne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally.

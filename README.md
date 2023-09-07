@@ -49,6 +49,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [ShortGPT](https://github.com/RayVentura/ShortGPT) - Experimental AI framework for automated short/video content creation.
 - [Smol Developer](https://github.com/smol-ai/developer) — CLI agent that generates a repository from a prompt. Uses OpenAI and Anthropic.
 - [Superagent](https://github.com/homanp/superagent) - Build, deploy, and manage LLM-powered agents.
+- [Teenage-AGI](https://github.com/seanpixel/Teenage-AGI) - Use OpenAI and Pinecone to Give memory to an AI agent and also allows it to "think" before making an action (outputting text)
 - [Transformers Agent](https://huggingface.co/docs/transformers/transformers_agents) - HuggingFace Transformers Agent offer a natural language API built on transformers and a curated set of tools. An agent interprets user natural language input & use tools to fulfil the user request.
 - [Tree of Thoughts](https://github.com/princeton-nlp/tree-of-thought-llm) - Deliberate Problem Solving with Large Language Models.
 - [WebArena](https://github.com/web-arena-x/webarena) - A Realistic Web Environment for Building Autonomous Agents.
@@ -56,6 +57,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [beebot](https://github.com/AutoPackAI/beebot) - An Autonomous AI Agent that works.
 - [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic.
 - [gpt_academic](https://github.com/binary-husky/gpt_academic) - 为 ChatGPT/GLM 提供图形交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&amp;函数插件，支持 Python 和 C++等项目剖析&amp;自译解功能，PDF/LaTex 论文翻译&amp;总结功能，支持并行问询多种 LLM 模型，支持 chatglm2 等本地模型。兼容文心一言, moss, llama2, rwkv, claude2, 通义千问, 书生, 讯飞星火等。
+- [lemon-agent](https://github.com/felixbrock/lemon-agent) - Plan-Validate-Solve (PVS) Agent for accurate, reliable and reproducable workflow automation.
 - [loopgpt](https://github.com/farizrahman4u/loopgpt) - A re-implementation of the popular Auto-GPT project as a proper python package, written with modularity and extensibility in mind.
 - [mini-agi](https://github.com/muellerberndt/mini-agi) - A minimal general-purpose autonomous agent based on GPT-3.5 / GPT-4. Can analyze stock prices, perform network security tests, create art, and order pizza.
 - [rci-agent](https://github.com/posgnu/rci-agent) - RCI Agent for MiniWoB++
@@ -70,6 +72,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [JARVIS](https://github.com/microsoft/JARVIS) - A system to connect LLMs with ML community.
 - [LLM-ToolMaker](https://github.com/ctlllll/LLM-ToolMaker) - Large Language Models as Tool Makers.
 - [Morph Rift](https://github.com/morph-labs/rift) — Open source VS Code extension that allows merging the output of code generation agents.
+- [OpenAGI](https://github.com/agiresearch/OpenAGI) - An open-source AGI research platform, specifically designed to offer complex, multi-step tasks and accompanied by task-specific datasets, evaluation metrics, and a diverse range of extensible models.
 - [PromethAI-Backend](https://github.com/topoteretes/PromethAI-Backend) - Open-source framework that gives you AI Agents that help you navigate decision-making, get personalized goals and execute them.
 - [ReWOO](https://github.com/billxbf/ReWOO) - Decoupling Reasoning from Observations for Efficient Augmented Language Models.
 - [SuperAGI](https://superagi.com/) Open source platform for hosting LLM-based agents including [SuperCoder](https://superagi.com/supercoder/).

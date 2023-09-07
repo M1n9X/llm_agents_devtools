@@ -195,6 +195,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [AGiXT](https://github.com/Josh-XT/AGiXT) - A dynamic AI Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers.
 - [Carbonate](https://carbonate.dev/) — End-to-end testing using natural language. Integrates into your existing test suite (currently Jest, PHPUnit and Python's unittest).
 - [DiffBlue](https://www.diffblue.com/) - Automatically generated unit tests for Java.
+- [LocalAI](https://github.com/go-skynet/LocalAI) - 🤖 Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, gpt4all, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others.
 - [Meticulous.ai](https://www.meticulous.ai/) - Automatically generated, automatically maintained end-to-end tests: as your app evolves so does your test suite.
 - [OctoMind](https://octomind.dev) - Auto-maintenance and generated browser-based end-to-end-tests integrated into Github Actions, Azure DevOps and more.
 - [Traceloop](https://traceloop.com/) - Uses OpenTelemetry tracing data with generative AI to improve system reliability.

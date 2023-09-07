@@ -77,6 +77,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [XLang](https://github.com/xlang-ai/xlang) - An Open-Source Framework for Building Language Model Agents via Executable Language Grounding.
 - [ai-legion](https://github.com/eumemic/ai-legion) - An LLM-powered autonomous agent platform.
 - [chidori](https://github.com/ThousandBirdsInc/chidori) - A reactive runtime for building durable AI agents.
+- [databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents.
 - [ix](https://github.com/kreneskyp/ix) - Autonomous GPT-4 agent platform.
 - [lagent](https://github.com/InternLM/lagent) - A lightweight framework for building LLM-based agents.
 - [openagent](https://github.com/dot-agent/openagent) - Microservices approach to AGI. Modular components for AI apps or AGI agents. (... and solving some wicked LLM problems like ⚡ 2X faster LLaMA 2)
@@ -122,6 +123,8 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [Tabnine](https://www.tabnine.com/) [(Source)](https://github.com/codota/TabNine) — Open source, self-hosted code completion assistant. Extensions for 15 editors including VS Code, IntelliJ, Neovim, Eclipse, and PyCharm.
 - [ai-jsx](https://github.com/fixie-ai/ai-jsx) - The AI Application Framework for Javascript.
 - [ax](https://github.com/axilla-io/ax) - A comprehensive AI framework for TypeScript.
+- [clippinator](https://github.com/ennucore/clippinator) - AI programming assistant.
+- [cody](https://github.com/sourcegraph/cody) - AI that knows your entire codebase.
 - [gpt-migrate](https://github.com/0xpayne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally.
 - [talk-codebase](https://github.com/rsaryev/talk-codebase) - CLI chatbot with repository as context. Supports OpenAI as well as locally running LLMs via GPT4All.
@@ -219,6 +222,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 
 - [ArxivGPT](https://chrome.google.com/webstore/detail/arxivgpt/fbbfpcjhnnklhmncjickdipdlhoddjoh/) - A Google Chrome plug-in that helps you quickly understand the content of arXiv papers.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF using the new ChatGPT API.
+- [ChemCrow](https://github.com/ur-whitelab/chemcrow-public) - An open source package for the accurate solution of reasoning-intensive chemical tasks.
 - [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - OpenBB is committed to build the future of investment research by focusing on an open source infrastructure accessible to everyone, everywhere.
 - [qlib](https://github.com/microsoft/qlib) - An AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions.
 

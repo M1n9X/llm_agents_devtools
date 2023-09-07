@@ -117,6 +117,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [Magnet](https://www.magnet.run/) — Web-based chatbot with repositories and issues as context.
 - [Quack AI](https://www.quack-ai.com/) — VS Code extension for adhering to project coding guidelines. Waitlist.
 - [Refact AI](https://refact.ai/) [Source](https://github.com/smallcloudai/refact) — Open source assistant with chat, completion, refactoring, and codebase-specific fine-tuning. Extensions for VS Code and JetBrains.
+- [Refact.ai](https://refact.ai/) - Powerful AI coding assistant that combines completion, refactoring, chat, and more.
 - [Replit Ghostwriter Chat](https://replit.com/site/ghostwriter) — Assistant built into [Replit](https://replit.com/) with chat, proactive debugging, and autocomplete. Uses OpenAI for chat and [replit-code-v1-3b](https://huggingface.co/replit/replit-code-v1-3b) (OS) for autocomplete.
 - [Rift](https://github.com/morph-labs/rift) - An AI-native language server for your personal AI software engineer.
 - [Source Graph Cody](https://about.sourcegraph.com/cody) - Assistant with chat, refactoring, and unit test generation. Extensions for VS Code and IntelliJ. Also available as a web app.

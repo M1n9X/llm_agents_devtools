@@ -148,12 +148,14 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through Multi-Agent Collaboration)
 - [GPTeam](https://github.com/101dotxyz/GPTeam) - An open-source multi-agent simulation.
 - [Generative Agents](https://github.com/joonspk-research/generative_agents) - Interactive Simulacra of Human Behavior.
+- [GeniA](https://github.com/genia-dev/GeniA) - Your Engineering Gen AI Team member 🧬🤖💻
 - [MetaGPT](https://github.com/geekan/MetaGPT) — The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo.
 - [RT-2](https://github.com/kyegomez/RT-2) - Robotic Transformer 2 (RT-2): The Vision-Language-Action Model.
 - [RoboAgent](https://github.com/robopen/roboagent/) - Towards Sample Efficient Robot Manipulation with Semantic Augmentations and Action Chunking.
 - [VoxPoser](https://voxposer.github.io/) - Composable 3D Value Maps for Robotic Manipulation with Language Models
 - [Voyager](https://github.com/MineDojo/Voyager) - An Open-Ended Embodied Agent with Large Language Models.
 - [ai-town](https://github.com/a16z-infra/ai-town) - A deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
+- [dev-gpt](https://github.com/jina-ai/dev-gpt) - Your Virtual Development Team.
 
 ## Foundation Models
 
@@ -180,6 +182,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 
 - [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Local knowledge based LLM (like ChatGLM) QA app with langchain.
 - [embedchain](https://github.com/embedchain/embedchain) - Framework to easily create LLM powered bots over any dataset.
+- [gpt-runner](https://github.com/nicepkg/gpt-runner) - Conversations with your files! Manage and run your AI presets!
 - [khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain. Khoj provides you with an easy way to setup the infrastructure to search and chat with your personal knowledge base, be it markdown, org, image, or PDF files.
 - [txtai](https://github.com/neuml/txtai) - All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows.
 
@@ -224,6 +227,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF using the new ChatGPT API.
 - [ChemCrow](https://github.com/ur-whitelab/chemcrow-public) - An open source package for the accurate solution of reasoning-intensive chemical tasks.
 - [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - OpenBB is committed to build the future of investment research by focusing on an open source infrastructure accessible to everyone, everywhere.
+- [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic.
 - [qlib](https://github.com/microsoft/qlib) - An AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions.
 
 ## Security

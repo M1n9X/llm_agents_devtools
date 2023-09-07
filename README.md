@@ -2,8 +2,8 @@
 
 This is a curated list of autonomous agents and developer tools powered by LLM.
 
-- [Agent Platforms](#agent-platforms)
 - [Agents](#agents)
+- [Agent Platforms](#agent-platforms)
 - [App Generators](#app-generators)
 - [Coding Assistants](#assistants)
 - [Digital Humans](#digital-humans)
@@ -11,6 +11,8 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [Embodied AI](#embodied-ai)
 - [Foundation Models](#foundation-models)
 - [IDEs](#ides)
+- [Knowledge Bases](#knowledge-base)
+- [LLMOps](#llmops)
 - [OpenAI Plugins](#openai-plugins)
 - [PR Agents](#pr-agents)
 - [Prompts Tuning](#prompts-tuning)
@@ -18,32 +20,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [Search](#search)
 - [Security](#security)
 - [Shell Assistants](#shell-assistants)
-- [Snippet Generators](#snippet-generators)
-- [Testing](#testing)
 - [Training &amp; Deployment](#training-deployment)
-- [Vector Databases](#vector-db)
-
-## Agent Platforms
-
-- [AgentBench](https://github.com/THUDM/AgentBench) - A Comprehensive Benchmark to Evaluate LLMs as Agents.
-- [AutoGen](https://microsoft.github.io/FLAML/docs/Use-Cases/Autogen/) - Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework.
-- [BOLAA](https://github.com/salesforce/BOLAA) - Benchmarking and Orchestrating LLM-augmented Autonomous Agents.
-- [E2B](https://www.e2b.dev/) — Open source cloud platform for hosting LLM-based agents. Supports [Smol Developer](https://github.com/smol-ai/developer).
-- [Gentopia](https://github.com/Gentopia-AI/Gentopia) - Build AGI through Interaction of Specialized Agents.
-- [JARVIS](https://github.com/microsoft/JARVIS) - A system to connect LLMs with ML community.
-- [LLM-ToolMaker](https://github.com/ctlllll/LLM-ToolMaker) - Large Language Models as Tool Makers.
-- [Morph Rift](https://github.com/morph-labs/rift) — Open source VS Code extension that allows merging the output of code generation agents.
-- [PromethAI-Backend](https://github.com/topoteretes/PromethAI-Backend) - Open-source framework that gives you AI Agents that help you navigate decision-making, get personalized goals and execute them.
-- [ReWOO](https://github.com/billxbf/ReWOO) - Decoupling Reasoning from Observations for Efficient Augmented Language Models.
-- [SuperAGI](https://superagi.com/) Open source platform for hosting LLM-based agents including [SuperCoder](https://superagi.com/supercoder/).
-- [ToolBench](https://github.com/OpenBMB/ToolBench) - An open platform for training, serving, and evaluating large language model for tool learning.
-- [XLang](https://github.com/xlang-ai/xlang) - An Open-Source Framework for Building Language Model Agents via Executable Language Grounding.
-- [ix](https://github.com/kreneskyp/ix) - Autonomous GPT-4 agent platform.
-- [lagent](https://github.com/InternLM/lagent) - A lightweight framework for building LLM-based agents.
-- [openagent](https://github.com/dot-agent/openagent) - Microservices approach to AGI. Modular components for AI apps or AGI agents. (... and solving some wicked LLM problems like ⚡ 2X faster LLaMA 2)
-- [pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
-- [toolformer-pytorch](https://github.com/lucidrains/toolformer-pytorch) - Language Models That Can Use Tools, by MetaAI.
-- [workgpt](https://github.com/team-openpm/workgpt) - A GPT agent framework for invoking APIs.
 
 ## Agents
 
@@ -73,11 +50,33 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [Superagent](https://github.com/homanp/superagent) - Build, deploy, and manage LLM-powered agents.
 - [Tree of Thoughts](https://github.com/princeton-nlp/tree-of-thought-llm) - Deliberate Problem Solving with Large Language Models.
 - [WebArena](https://github.com/web-arena-x/webarena) - A Realistic Web Environment for Building Autonomous Agents.
-- [gpt-researcher](https://github.com/assafelovic/gpt-researcher) -  GPT based autonomous agent that does online comprehensive research on any given topic.
-- [gpt_academic](https://github.com/binary-husky/gpt_academic) - 为ChatGPT/GLM提供图形交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&amp;函数插件，支持Python和C++等项目剖析&amp;自译解功能，PDF/LaTex论文翻译&amp;总结功能，支持并行问询多种LLM模型，支持chatglm2等本地模型。兼容文心一言, moss, llama2, rwkv, claude2, 通义千问, 书生, 讯飞星火等。
+- [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic.
+- [gpt_academic](https://github.com/binary-husky/gpt_academic) - 为 ChatGPT/GLM 提供图形交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&amp;函数插件，支持 Python 和 C++等项目剖析&amp;自译解功能，PDF/LaTex 论文翻译&amp;总结功能，支持并行问询多种 LLM 模型，支持 chatglm2 等本地模型。兼容文心一言, moss, llama2, rwkv, claude2, 通义千问, 书生, 讯飞星火等。
 - [loopgpt](https://github.com/farizrahman4u/loopgpt) - A re-implementation of the popular Auto-GPT project as a proper python package, written with modularity and extensibility in mind.
 - [mini-agi](https://github.com/muellerberndt/mini-agi) - A minimal general-purpose autonomous agent based on GPT-3.5 / GPT-4. Can analyze stock prices, perform network security tests, create art, and order pizza.
 - [rci-agent](https://github.com/posgnu/rci-agent) - RCI Agent for MiniWoB++
+
+## Agent Platforms
+
+- [AgentBench](https://github.com/THUDM/AgentBench) - A Comprehensive Benchmark to Evaluate LLMs as Agents.
+- [AutoGen](https://microsoft.github.io/FLAML/docs/Use-Cases/Autogen/) - Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework.
+- [BOLAA](https://github.com/salesforce/BOLAA) - Benchmarking and Orchestrating LLM-augmented Autonomous Agents.
+- [E2B](https://www.e2b.dev/) — Open source cloud platform for hosting LLM-based agents. Supports [Smol Developer](https://github.com/smol-ai/developer).
+- [Gentopia](https://github.com/Gentopia-AI/Gentopia) - Build AGI through Interaction of Specialized Agents.
+- [JARVIS](https://github.com/microsoft/JARVIS) - A system to connect LLMs with ML community.
+- [LLM-ToolMaker](https://github.com/ctlllll/LLM-ToolMaker) - Large Language Models as Tool Makers.
+- [Morph Rift](https://github.com/morph-labs/rift) — Open source VS Code extension that allows merging the output of code generation agents.
+- [PromethAI-Backend](https://github.com/topoteretes/PromethAI-Backend) - Open-source framework that gives you AI Agents that help you navigate decision-making, get personalized goals and execute them.
+- [ReWOO](https://github.com/billxbf/ReWOO) - Decoupling Reasoning from Observations for Efficient Augmented Language Models.
+- [SuperAGI](https://superagi.com/) Open source platform for hosting LLM-based agents including [SuperCoder](https://superagi.com/supercoder/).
+- [ToolBench](https://github.com/OpenBMB/ToolBench) - An open platform for training, serving, and evaluating large language model for tool learning.
+- [XLang](https://github.com/xlang-ai/xlang) - An Open-Source Framework for Building Language Model Agents via Executable Language Grounding.
+- [ix](https://github.com/kreneskyp/ix) - Autonomous GPT-4 agent platform.
+- [lagent](https://github.com/InternLM/lagent) - A lightweight framework for building LLM-based agents.
+- [openagent](https://github.com/dot-agent/openagent) - Microservices approach to AGI. Modular components for AI apps or AGI agents. (... and solving some wicked LLM problems like ⚡ 2X faster LLaMA 2)
+- [pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
+- [toolformer-pytorch](https://github.com/lucidrains/toolformer-pytorch) - Language Models That Can Use Tools, by MetaAI.
+- [workgpt](https://github.com/team-openpm/workgpt) - A GPT agent framework for invoking APIs.
 
 ## App Generators
 
@@ -91,6 +90,8 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 
 ## Coding Assistants
 
+- [AI Code Convert](https://aicodeconvert.com/) — A web tool for translating code between programming languages.
+- [AI Code Playground](https://aicodeplayground.com/) — CodeChain is a web tool for refactoring and improving code.
 - [API Copilot](https://apicopilot.dev/) — Assistant for backend API development.
 - [Adrenaline](https://useadrenaline.com/) - Web-based chatbot using AI and ASTs to answer questions about your codebase.
 - [Amazon CodeWhisperer](https://aws.amazon.com/cn/codewhisperer/) - An AI coding companion that generates whole line and full function code suggestions in your IDE to help you get more done faster.
@@ -98,6 +99,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [Blackbox](https://www.useblackbox.io/) — VS Code extension with autocomplete and chat including links to online coding references.
 - [CodeGeeX](https://codegeex.cn/) Open source assistant based on the CodeGeeX LLM with chat, completion, and refactoring. Extensions for 9 editors including VS Code, and PyCharm.
 - [CodeMate](https://www.codemate.ai/) — VS Code extension for debugging and optimizing code.
+- [CodePal](https://codepal.ai/) — A web tool for quickly generating or refactoring code.
 - [CodeSquire](https://codesquire.ai/) — Chrome extension that adds autocomplete to Google Colab, BigQuery, and JupyterLab.
 - [Codeium](https://codeium.com/) — Assistant with autocomplete, natural language search and chat. Extensions for 21 editors including VS Code, JetBrains, Neovim, Vim, Emacs, Eclipse, PyCharm, and Xcode. Enterprise version includes codebase-specific fine-tuning.
 - [Continue](https://continue.dev/) — VS Code extension with chat, refactor, and code generation. Edits multiple files and runs commands on your behalf.
@@ -119,7 +121,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 ## Digital Humans
 
 - [GPT-vup](https://github.com/jiran214/GPT-vup) - Live digital host for BIliBili/Tiktok.
-- [FaceChain](https://github.com/modelscope/facechain) -  A deep-learning toolchain for generating your Digital-Twin.
+- [FaceChain](https://github.com/modelscope/facechain) - A deep-learning toolchain for generating your Digital-Twin.
 
 ## Documentation
 
@@ -163,6 +165,22 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [Cursor](https://www.cursor.so/) — An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Uses OpenAI.
 - [Mutable](https://mutable.ai/) — Web-based IDE, integrated with a chatbot and GitHub.
 
+## Knowledge Bases
+
+- [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Local knowledge based LLM (like ChatGLM) QA app with langchain.
+- [embedchain](https://github.com/embedchain/embedchain) - Framework to easily create LLM powered bots over any dataset.
+- [khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain. Khoj provides you with an easy way to setup the infrastructure to search and chat with your personal knowledge base, be it markdown, org, image, or PDF files.
+- [txtai](https://github.com/neuml/txtai) - All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows.
+
+## LLMOps
+
+- [Carbonate](https://carbonate.dev/) — End-to-end testing using natural language. Integrates into your existing test suite (currently Jest, PHPUnit and Python's unittest).
+- [DiffBlue](https://www.diffblue.com/) - Automatically generated unit tests for Java.
+- [Helicone/helicone (github.com)](https://github.com/Helicone/helicone)
+- [Meticulous.ai](https://www.meticulous.ai/) - Automatically generated, automatically maintained end-to-end tests: as your app evolves so does your test suite.
+- [OctoMind](https://octomind.dev) - Auto-maintenance and generated browser-based end-to-end-tests integrated into Github Actions, Azure DevOps and more.
+- [Traceloop](https://traceloop.com/) - Uses OpenTelemetry tracing data with generative AI to improve system reliability.
+
 ## OpenAI Plugins
 
 - [ChatWithGit](https://gitsearch.sdan.io/) — Enables ChatGPT to search GitHub and return links to relevant repositories.
@@ -202,12 +220,6 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [Shell-AI](https://github.com/ricklamers/shell-ai) - LangChain powered shell command generate and run CLI.
 - [aider](https://github.com/paul-gauthier/aider) - AI pair programming in your terminal.
 
-## Snippet Generators
-
-- [CodePal](https://codepal.ai/) — A web tool for quickly generating or refactoring code.
-- [AI Code Convert](https://aicodeconvert.com/) — A web tool for translating code between programming languages.
-- [AI Code Playground](https://aicodeplayground.com/) — A web tool for refactoring and improving code.
-
 ## Search
 
 - [Bloop](https://bloop.ai/) — Natural language search for repositories.
@@ -216,25 +228,11 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [PandasAI](https://github.com/gventuri/pandas-ai) - A Python library that integrates generative artificial intelligence capabilities into pandas, making dataframes conversational.
 - [Perplexity](https://www.perplexity.ai/) - Unlock the power of knowledge with information discovery and sharing.
 
-## Testing
-
-- [Carbonate](https://carbonate.dev/) — End-to-end testing using natural language. Integrates into your existing test suite (currently Jest, PHPUnit and Python's unittest).
-- [DiffBlue](https://www.diffblue.com/) - Automatically generated unit tests for Java.
-- [Meticulous.ai](https://www.meticulous.ai/) - Automatically generated, automatically maintained end-to-end tests: as your app evolves so does your test suite.
-- [OctoMind](https://octomind.dev) - Auto-maintenance and generated browser-based end-to-end-tests integrated into Github Actions, Azure DevOps and more.
-- [Traceloop](https://traceloop.com/) - Uses OpenTelemetry tracing data with generative AI to improve system reliability.
-
 ## Training & Deployment
 
 - [HCP-Diffusion](https://github.com/7eu7d7/HCP-Diffusion) - A universal Stable-Diffusion toolbox.
 - [LMDeploy](https://github.com/InternLM/lmdeploy) - A toolkit for compressing, deploying, and serving LLMs.
 - [langchain-production-starter](https://github.com/steamship-packages/langchain-production-starter) - Deploy LangChain Agents and connect them to Telegram.
 - [ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models.
+- [onprem](https://github.com/amaiya/onprem) - A tool for running on-premises large language models with non-public data.
 - [prompt2model](https://github.com/neulab/prompt2model) - Generate Deployable Models from Natural Language Instructions.
-
-## Vector Databases
-
-- [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Local knowledge based LLM (like ChatGLM) QA app with langchain.
-- [embedchain](https://github.com/embedchain/embedchain) - Framework to easily create LLM powered bots over any dataset.
-- [khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain. Khoj provides you with an easy way to setup the infrastructure to search and chat with your personal knowledge base, be it markdown, org, image, or PDF files.
-- [txtai](https://github.com/neuml/txtai) - All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows.

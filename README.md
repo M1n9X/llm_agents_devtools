@@ -25,7 +25,6 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 ## Agents
 
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
-- [Aider](https://github.com/paul-gauthier/aider) — CLI assistant and agent that generates changes and commits to repositories. Uses OpenAI.
 - [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) — An experimental open-source attempt to make GPT-4 fully autonomous.
 - [BabyAGI](https://github.com/yoheinakajima/babyagi) — An AI-powered task management system.
 - [BambooAI](https://github.com/pgalko/BambooAI) - A lightweight library that leverages Language Models (LLMs) to enable natural language interactions, allowing you to source and converse with data.
@@ -47,7 +46,6 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [Second.dev](https://www.second.dev/) — A platform for adding features to full-stack apps.
 - [ShortGPT](https://github.com/RayVentura/ShortGPT) - Experimental AI framework for automated short/video content creation.
 - [Smol Developer](https://github.com/smol-ai/developer) — CLI agent that generates a repository from a prompt. Uses OpenAI and Anthropic.
-- [Superagent](https://github.com/homanp/superagent) - Build, deploy, and manage LLM-powered agents.
 - [Teenage-AGI](https://github.com/seanpixel/Teenage-AGI) - Use OpenAI and Pinecone to Give memory to an AI agent and also allows it to "think" before making an action (outputting text)
 - [Transformers Agent](https://huggingface.co/docs/transformers/transformers_agents) - HuggingFace Transformers Agent offer a natural language API built on transformers and a curated set of tools. An agent interprets user natural language input & use tools to fulfil the user request.
 - [Tree of Thoughts](https://github.com/princeton-nlp/tree-of-thought-llm) - Deliberate Problem Solving with Large Language Models.
@@ -74,6 +72,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [PromethAI-Backend](https://github.com/topoteretes/PromethAI-Backend) - Open-source framework that gives you AI Agents that help you navigate decision-making, get personalized goals and execute them.
 - [ReWOO](https://github.com/billxbf/ReWOO) - Decoupling Reasoning from Observations for Efficient Augmented Language Models.
 - [SuperAGI](https://superagi.com/) Open source platform for hosting LLM-based agents including [SuperCoder](https://superagi.com/supercoder/).
+- [Superagent](https://github.com/homanp/superagent) - Build, deploy, and manage LLM-powered agents.
 - [ToolBench](https://github.com/OpenBMB/ToolBench) - An open platform for training, serving, and evaluating large language model for tool learning.
 - [XLang](https://github.com/xlang-ai/xlang) - An Open-Source Framework for Building Language Model Agents via Executable Language Grounding.
 - [ai-legion](https://github.com/eumemic/ai-legion) - An LLM-powered autonomous agent platform.
@@ -240,11 +239,11 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 
 ## Shell Assistants
 
+- [Aider](https://github.com/paul-gauthier/aider) — CLI assistant and agent that generates changes and commits to repositories. Uses OpenAI.
 - [AskCommand](https://www.askcommand.cppexpert.online/) - Web based tool to generate Unix commands from text automatically using AI.
 - [Butterfish](https://butterfi.sh) - CLI tool that embeds ChatGPT in your shell for easy access. Includes simple agentic capabilities.
 - [Mentat](https://github.com/biobootloader/mentat) — CLI assistant and agent that makes changes to repositories.
 - [Shell-AI](https://github.com/ricklamers/shell-ai) - LangChain powered shell command generate and run CLI.
-- [aider](https://github.com/paul-gauthier/aider) - AI pair programming in your terminal.
 
 ## Search
 

@@ -48,6 +48,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [ShortGPT](https://github.com/RayVentura/ShortGPT) - Experimental AI framework for automated short/video content creation.
 - [Smol Developer](https://github.com/smol-ai/developer) — CLI agent that generates a repository from a prompt. Uses OpenAI and Anthropic.
 - [Superagent](https://github.com/homanp/superagent) - Build, deploy, and manage LLM-powered agents.
+- [Transformers Agent](https://huggingface.co/docs/transformers/transformers_agents) - HuggingFace Transformers Agent offer a natural language API built on transformers and a curated set of tools. An agent interprets user natural language input & use tools to fulfil the user request.
 - [Tree of Thoughts](https://github.com/princeton-nlp/tree-of-thought-llm) - Deliberate Problem Solving with Large Language Models.
 - [WebArena](https://github.com/web-arena-x/webarena) - A Realistic Web Environment for Building Autonomous Agents.
 - [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic.

@@ -71,6 +71,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [SuperAGI](https://superagi.com/) Open source platform for hosting LLM-based agents including [SuperCoder](https://superagi.com/supercoder/).
 - [ToolBench](https://github.com/OpenBMB/ToolBench) - An open platform for training, serving, and evaluating large language model for tool learning.
 - [XLang](https://github.com/xlang-ai/xlang) - An Open-Source Framework for Building Language Model Agents via Executable Language Grounding.
+- [chidori](https://github.com/ThousandBirdsInc/chidori) - A reactive runtime for building durable AI agents.
 - [ix](https://github.com/kreneskyp/ix) - Autonomous GPT-4 agent platform.
 - [lagent](https://github.com/InternLM/lagent) - A lightweight framework for building LLM-based agents.
 - [openagent](https://github.com/dot-agent/openagent) - Microservices approach to AGI. Modular components for AI apps or AGI agents. (... and solving some wicked LLM problems like ⚡ 2X faster LLaMA 2)
@@ -114,6 +115,8 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [Source Graph Cody](https://about.sourcegraph.com/cody) - Assistant with chat, refactoring, and unit test generation. Extensions for VS Code and IntelliJ. Also available as a web app.
 - [Tabby](https://tabbyml.github.io/tabby/) — Open source, self-hosted code completion assistant. Extensions for VS Code and Vim.
 - [Tabnine](https://www.tabnine.com/) [(Source)](https://github.com/codota/TabNine) — Open source, self-hosted code completion assistant. Extensions for 15 editors including VS Code, IntelliJ, Neovim, Eclipse, and PyCharm.
+- [ai-jsx](https://github.com/fixie-ai/ai-jsx) - The AI Application Framework for Javascript.
+- [ax](https://github.com/axilla-io/ax) - A comprehensive AI framework for TypeScript.
 - [gpt-migrate](https://github.com/0xpayne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally.
 - [talk-codebase](https://github.com/rsaryev/talk-codebase) - CLI chatbot with repository as context. Supports OpenAI as well as locally running LLMs via GPT4All.
@@ -180,6 +183,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [Meticulous.ai](https://www.meticulous.ai/) - Automatically generated, automatically maintained end-to-end tests: as your app evolves so does your test suite.
 - [OctoMind](https://octomind.dev) - Auto-maintenance and generated browser-based end-to-end-tests integrated into Github Actions, Azure DevOps and more.
 - [Traceloop](https://traceloop.com/) - Uses OpenTelemetry tracing data with generative AI to improve system reliability.
+- [haystack](https://github.com/deepset-ai/haystack) - 🔍 LLM orchestration framework to build customizable, production-ready LLM applications.
 - [helicone](https://github.com/Helicone/helicone) - An open-source observability platform for Language Learning Models (LLMs).
 - [langfuse](https://github.com/langfuse/langfuse) - Open source observability and analytics for LLM applications.
 
@@ -210,6 +214,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [ArxivGPT](https://chrome.google.com/webstore/detail/arxivgpt/fbbfpcjhnnklhmncjickdipdlhoddjoh/) - A Google Chrome plug-in that helps you quickly understand the content of arXiv papers.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF using the new ChatGPT API.
 - [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - OpenBB is committed to build the future of investment research by focusing on an open source infrastructure accessible to everyone, everywhere.
+- [qlib](https://github.com/microsoft/qlib) - An AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions.
 
 ## Security
 

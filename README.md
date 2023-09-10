@@ -104,6 +104,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [Amazon CodeWhisperer](https://aws.amazon.com/cn/codewhisperer/) - An AI coding companion that generates whole line and full function code suggestions in your IDE to help you get more done faster.
 - [Bito AI](https://bito.ai/) — Bito is powered by OpenAI's ChatGPT and GPT-4, which revolutionizes the way developers write code. Generate high-quality AI-powered code, AI-assisted code completion, optimize code performance, explain complex code snippets, generate unit tests, and more – all effortlessly.
 - [Blackbox](https://www.useblackbox.io/) — VS Code extension with autocomplete and chat including links to online coding references.
+- [CodeApex](https://github.com/APEXLAB/CodeApex) - A bilingual programming evaluation benchmark for Large Language Models.
 - [CodeGeeX](https://codegeex.cn/) Open source assistant based on the CodeGeeX LLM with chat, completion, and refactoring. Extensions for 9 editors including VS Code, and PyCharm.
 - [CodeMate](https://www.codemate.ai/) — VS Code extension for debugging and optimizing code.
 - [CodePal](https://codepal.ai/) — A web tool for quickly generating or refactoring code.
@@ -200,6 +201,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [haystack](https://github.com/deepset-ai/haystack) - 🔍 LLM orchestration framework to build customizable, production-ready LLM applications.
 - [helicone](https://github.com/Helicone/helicone) - An open-source observability platform for Language Learning Models (LLMs).
 - [langfuse](https://github.com/langfuse/langfuse) - Open source observability and analytics for LLM applications.
+- [promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 
 ## OpenAI Plugins
 
@@ -228,6 +230,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 
 - [ArxivGPT](https://chrome.google.com/webstore/detail/arxivgpt/fbbfpcjhnnklhmncjickdipdlhoddjoh/) - A Google Chrome plug-in that helps you quickly understand the content of arXiv papers.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF using the new ChatGPT API.
+- [ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复.
 - [ChemCrow](https://github.com/ur-whitelab/chemcrow-public) - An open source package for the accurate solution of reasoning-intensive chemical tasks.
 - [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - OpenBB is committed to build the future of investment research by focusing on an open source infrastructure accessible to everyone, everywhere.
 - [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic.

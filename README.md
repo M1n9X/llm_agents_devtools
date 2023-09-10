@@ -82,6 +82,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [lagent](https://github.com/InternLM/lagent) - A lightweight framework for building LLM-based agents.
 - [openagent](https://github.com/dot-agent/openagent) - Microservices approach to AGI. Modular components for AI apps or AGI agents. (... and solving some wicked LLM problems like ⚡ 2X faster LLaMA 2)
 - [pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
+- [rivet](https://github.com/Ironclad/rivet) - AI agent and prompt chaining IDE and library.
 - [toolformer-pytorch](https://github.com/lucidrains/toolformer-pytorch) - Language Models That Can Use Tools, by MetaAI.
 - [workgpt](https://github.com/team-openpm/workgpt) - A GPT agent framework for invoking APIs.
 

@@ -117,8 +117,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [Incognito Pilot](https://github.com/silvanmelchior/IncognitoPilot) — Open source assistant with built-in Python editor and interpreter.
 - [Magnet](https://www.magnet.run/) — Web-based chatbot with repositories and issues as context.
 - [Quack AI](https://www.quack-ai.com/) — VS Code extension for adhering to project coding guidelines. Waitlist.
-- [Refact AI](https://refact.ai/) [Source](https://github.com/smallcloudai/refact) — Open source assistant with chat, completion, refactoring, and codebase-specific fine-tuning. Extensions for VS Code and JetBrains.
-- [Refact.ai](https://refact.ai/) - Powerful AI coding assistant that combines completion, refactoring, chat, and more.
+- [Refact](https://github.com/smallcloudai/refact) — Open-Source Coding Assistant with Fine-Tuning on codebase, autocompletion, code refactoring, code analysis, integrated chat and more!
 - [Replit Ghostwriter Chat](https://replit.com/site/ghostwriter) — Assistant built into [Replit](https://replit.com/) with chat, proactive debugging, and autocomplete. Uses OpenAI for chat and [replit-code-v1-3b](https://huggingface.co/replit/replit-code-v1-3b) (OS) for autocomplete.
 - [Rift](https://github.com/morph-labs/rift) - An AI-native language server for your personal AI software engineer.
 - [Source Graph Cody](https://about.sourcegraph.com/cody) - Assistant with chat, refactoring, and unit test generation. Extensions for VS Code and IntelliJ. Also available as a web app.
@@ -185,6 +184,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 ## Knowledge Bases
 
 - [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Local knowledge based LLM (like ChatGLM) QA app with langchain.
+- [Robby-chatbot](https://github.com/yvann-hub/Robby-chatbot) - AI chatbot 🤖 for chat with CSV, PDF, TXT files 📄 and YTB videos 🎥 | using Langchain🦜 | OpenAI | Streamlit ⚡
 - [embedchain](https://github.com/embedchain/embedchain) - Framework to easily create LLM powered bots over any dataset.
 - [gpt-runner](https://github.com/nicepkg/gpt-runner) - Conversations with your files! Manage and run your AI presets!
 - [khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain. Khoj provides you with an easy way to setup the infrastructure to search and chat with your personal knowledge base, be it markdown, org, image, or PDF files.
@@ -231,7 +231,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 
 - [ArxivGPT](https://chrome.google.com/webstore/detail/arxivgpt/fbbfpcjhnnklhmncjickdipdlhoddjoh/) - A Google Chrome plug-in that helps you quickly understand the content of arXiv papers.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF using the new ChatGPT API.
-- [ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复.
+- [ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用 chatgpt 进行论文全文总结+专业翻译+润色+审稿+审稿回复.
 - [ChemCrow](https://github.com/ur-whitelab/chemcrow-public) - An open source package for the accurate solution of reasoning-intensive chemical tasks.
 - [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - OpenBB is committed to build the future of investment research by focusing on an open source infrastructure accessible to everyone, everywhere.
 - [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic.
@@ -252,7 +252,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 ## Search
 
 - [Bloop](https://bloop.ai/) — Natural language search for repositories.
-- [Buildt](https://www.buildt.ai/) — Natural language search for repositories. Waitlist.
+- [Buildt](https://www.buildt.ai/) — Natural language search for repositories.
 - [Metaphor](https://metaphor.systems/) - A search engine designed from scratch using AI.
 - [PandasAI](https://github.com/gventuri/pandas-ai) - A Python library that integrates generative artificial intelligence capabilities into pandas, making dataframes conversational.
 - [Perplexity](https://www.perplexity.ai/) - Unlock the power of knowledge with information discovery and sharing.

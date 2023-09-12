@@ -129,6 +129,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [clippinator](https://github.com/ennucore/clippinator) - AI programming assistant.
 - [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - Open source implementation of the ChatGPT Code Interpreter 👾
 - [cody](https://github.com/sourcegraph/cody) - AI that knows your entire codebase.
+- [evalgpt](https://github.com/index-labs/evalgpt) - An code interpreter framework that utilizes large language models to automate the process of code-writing and execution, delivering precise results for user-defined tasks.
 - [gpt-migrate](https://github.com/0xpayne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally.
 - [talk-codebase](https://github.com/rsaryev/talk-codebase) - CLI chatbot with repository as context. Supports OpenAI as well as locally running LLMs via GPT4All.
@@ -149,6 +150,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [Docify](https://docify.ai4code.io/) — A VS Code extension to generate docstrings.
 - [Mintlify Writer](https://writer.mintlify.com/) — A VS Code extension to generate docstrings.
 - [Trelent](https://trelent.net/) — A VS Code extension to generate docstrings. Uses proprietary models.
+- [gpt-author](https://github.com/mshumer/gpt-author) - Utilize a chain of GPT-4, Stable Diffusion, and Anthropic API calls to generate an original fantasy novel.
 
 ## Embodied AI
 

@@ -6,6 +6,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [Agent Platforms](#agent-platforms)
 - [App Generators](#app-generators)
 - [Coding Assistants](#assistants)
+- [Cognitive Architectures](#cognitive-architectures)
 - [Digital Humans](#digital-humans)
 - [Documentation](#documentation)
 - [Embodied AI](#embodied-ai)
@@ -132,6 +133,12 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally.
 - [talk-codebase](https://github.com/rsaryev/talk-codebase) - CLI chatbot with repository as context. Supports OpenAI as well as locally running LLMs via GPT4All.
 
+## Cognitive Architectures
+
+- [ACT-R](http://act-r.psy.cmu.edu/) - Adaptive Control of Thought—Rational.
+- [CoALA](https://github.com/ysymyth/awesome-language-agents) - Cognitive Architectures for Language Agents.
+- [Soar](https://github.com/SoarGroup/Soar) - A general cognitive architecture for systems that exhibit intelligent behavior.
+
 ## Digital Humans
 
 - [GPT-vup](https://github.com/jiran214/GPT-vup) - Live digital host for BIliBili/Tiktok.
@@ -203,6 +210,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [helicone](https://github.com/Helicone/helicone) - An open-source observability platform for Language Learning Models (LLMs).
 - [langfuse](https://github.com/langfuse/langfuse) - Open source observability and analytics for LLM applications.
 - [promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
+- [zeno](https://github.com/zeno-ml/zeno) - AI Data Management & Evaluation Platform.
 
 ## OpenAI Plugins
 
@@ -240,6 +248,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 ## Security
 
 - [NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - An open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
+- [guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
 
 ## Shell Assistants
 

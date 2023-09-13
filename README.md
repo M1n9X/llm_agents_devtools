@@ -63,7 +63,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 ## Agent Platforms
 
 - [AgentBench](https://github.com/THUDM/AgentBench) - A Comprehensive Benchmark to Evaluate LLMs as Agents.
-- [AutoGen](https://microsoft.github.io/FLAML/docs/Use-Cases/Autogen/) - Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework.
+- [AutoGen](https://microsoft.github.io/autogen/) - Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework.
 - [BOLAA](https://github.com/salesforce/BOLAA) - Benchmarking and Orchestrating LLM-augmented Autonomous Agents.
 - [E2B](https://www.e2b.dev/) — Open source cloud platform for hosting LLM-based agents. Supports [Smol Developer](https://github.com/smol-ai/developer).
 - [Gentopia](https://github.com/Gentopia-AI/Gentopia) - Build AGI through Interaction of Specialized Agents.
@@ -82,7 +82,6 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [ix](https://github.com/kreneskyp/ix) - Autonomous GPT-4 agent platform.
 - [lagent](https://github.com/InternLM/lagent) - A lightweight framework for building LLM-based agents.
 - [openagent](https://github.com/dot-agent/openagent) - Microservices approach to AGI. Modular components for AI apps or AGI agents. (... and solving some wicked LLM problems like ⚡ 2X faster LLaMA 2)
-- [pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [rivet](https://github.com/Ironclad/rivet) - AI agent and prompt chaining IDE and library.
 - [toolformer-pytorch](https://github.com/lucidrains/toolformer-pytorch) - Language Models That Can Use Tools, by MetaAI.
 - [workgpt](https://github.com/team-openpm/workgpt) - A GPT agent framework for invoking APIs.
@@ -212,6 +211,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [haystack](https://github.com/deepset-ai/haystack) - 🔍 LLM orchestration framework to build customizable, production-ready LLM applications.
 - [helicone](https://github.com/Helicone/helicone) - An open-source observability platform for Language Learning Models (LLMs).
 - [langfuse](https://github.com/langfuse/langfuse) - Open source observability and analytics for LLM applications.
+- [pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 - [zeno](https://github.com/zeno-ml/zeno) - AI Data Management & Evaluation Platform.
 

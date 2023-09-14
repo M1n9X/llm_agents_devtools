@@ -234,6 +234,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 
 - [Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating.
 - [LangGPT](https://github.com/yzfly/LangGPT) - LangGPT: Empowering everyone to become a prompt expert!🚀 Structured Prompt，结构化提示词。
+- [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering.
 - [YiVal](https://github.com/YiVal/YiVal) - 🚀 From Demo to Production.🚀 YiVal is an open source GenAI-Ops framework that allows you to iteratively tune and evaluate your AIGC prompts, model metadata, model params, and retrieval configs all at once with your preferred choices of test dataset generation, evaluation algorithms and improvement strategies.
 - [outlines](https://github.com/normal-computing/outlines) - Generative Model Programming.
 - [prompttools](https://github.com/hegelai/prompttools) - Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB).

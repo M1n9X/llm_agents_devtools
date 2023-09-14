@@ -275,6 +275,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [LMDeploy](https://github.com/InternLM/lmdeploy) - A toolkit for compressing, deploying, and serving LLMs.
 - [Medusa](https://github.com/FasterDecoding/Medusa) - Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads.
 - [langchain-production-starter](https://github.com/steamship-packages/langchain-production-starter) - Deploy LangChain Agents and connect them to Telegram.
+- [llm-applications](https://github.com/ray-project/llm-applications) - A comprehensive guide to building RAG-based LLM applications for production.
 - [ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models.
 - [onprem](https://github.com/amaiya/onprem) - A tool for running on-premises large language models with non-public data.
 - [prompt2model](https://github.com/neulab/prompt2model) - Generate Deployable Models from Natural Language Instructions.

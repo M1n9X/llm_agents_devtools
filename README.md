@@ -76,6 +76,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [Superagent](https://github.com/homanp/superagent) - Build, deploy, and manage LLM-powered agents.
 - [ToolBench](https://github.com/OpenBMB/ToolBench) - An open platform for training, serving, and evaluating large language model for tool learning.
 - [XLang](https://github.com/xlang-ai/xlang) - An Open-Source Framework for Building Language Model Agents via Executable Language Grounding.
+- [agents](https://github.com/aiwaves-cn/agents) - An Open-source Framework for Autonomous Language Agents.
 - [ai-legion](https://github.com/eumemic/ai-legion) - An LLM-powered autonomous agent platform.
 - [chidori](https://github.com/ThousandBirdsInc/chidori) - A reactive runtime for building durable AI agents.
 - [databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents.
@@ -252,6 +253,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 ## Security
 
 - [NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - An open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
+- [guardrails](https://github.com/ShreyaR/guardrails) - An open-source Python package for specifying structure and type, validating and correcting the outputs of large language models (LLMs).
 - [guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
 
 ## Shell Assistants

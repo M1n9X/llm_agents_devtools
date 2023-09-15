@@ -63,6 +63,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 ## Agent Platforms
 
 - [AgentBench](https://github.com/THUDM/AgentBench) - A Comprehensive Benchmark to Evaluate LLMs as Agents.
+- [AutoAgents](https://github.com/LinkSoul-AI/AutoAgents) - Generate different roles for GPTs to form a collaborative entity for complex tasks.
 - [AutoGen](https://microsoft.github.io/autogen/) - Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework.
 - [BOLAA](https://github.com/salesforce/BOLAA) - Benchmarking and Orchestrating LLM-augmented Autonomous Agents.
 - [E2B](https://www.e2b.dev/) — Open source cloud platform for hosting LLM-based agents. Supports [Smol Developer](https://github.com/smol-ai/developer).

@@ -169,6 +169,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [VoxPoser](https://voxposer.github.io/) - Composable 3D Value Maps for Robotic Manipulation with Language Models
 - [Voyager](https://github.com/MineDojo/Voyager) - An Open-Ended Embodied Agent with Large Language Models.
 - [ai-town](https://github.com/a16z-infra/ai-town) - A deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
+- [aloha](https://github.com/tonyzhaozh/aloha) - A Low-cost Open-source Hardware System for Bimanual Teleoperation.
 - [dev-gpt](https://github.com/jina-ai/dev-gpt) - Your Virtual Development Team.
 
 ## Evaluation

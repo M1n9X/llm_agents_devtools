@@ -60,6 +60,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [loopgpt](https://github.com/farizrahman4u/loopgpt) - A re-implementation of the popular Auto-GPT project as a proper python package, written with modularity and extensibility in mind.
 - [mini-agi](https://github.com/muellerberndt/mini-agi) - A minimal general-purpose autonomous agent based on GPT-3.5 / GPT-4. Can analyze stock prices, perform network security tests, create art, and order pizza.
 - [rci-agent](https://github.com/posgnu/rci-agent) - RCI Agent for MiniWoB++
+- [reflexion](https://github.com/noahshinn024/reflexion) - Reflexion: Language Agents with Verbal Reinforcement Learning.
 
 ## Agent Platforms
 

@@ -10,6 +10,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [Digital Humans](#digital-humans)
 - [Documentation](#documentation)
 - [Embodied AI](#embodied-ai)
+- [Evaluation](#evaluation)
 - [Foundation Models](#foundation-models)
 - [IDEs](#ides)
 - [Knowledge Bases](#knowledge-base)
@@ -169,6 +170,11 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [Voyager](https://github.com/MineDojo/Voyager) - An Open-Ended Embodied Agent with Large Language Models.
 - [ai-town](https://github.com/a16z-infra/ai-town) - A deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
 - [dev-gpt](https://github.com/jina-ai/dev-gpt) - Your Virtual Development Team.
+
+## Evaluation
+
+- [InstructEval](https://github.com/princeton-nlp/InstructEval) - Evaluation suite for the systematic evaluation of instruction selection methods.
+- [instruct-eval](https://github.com/declare-lab/instruct-eval) - Quantitatively evaluate instruction-tuned models such as Alpaca and Flan-T5 on held-out tasks.
 
 ## Foundation Models
 

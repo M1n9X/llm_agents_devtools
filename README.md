@@ -51,7 +51,6 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [Smol Developer](https://github.com/smol-ai/developer) — CLI agent that generates a repository from a prompt. Uses OpenAI and Anthropic.
 - [Teenage-AGI](https://github.com/seanpixel/Teenage-AGI) - Use OpenAI and Pinecone to Give memory to an AI agent and also allows it to "think" before making an action (outputting text)
 - [Transformers Agent](https://huggingface.co/docs/transformers/transformers_agents) - HuggingFace Transformers Agent offer a natural language API built on transformers and a curated set of tools. An agent interprets user natural language input & use tools to fulfil the user request.
-- [Tree of Thoughts](https://github.com/princeton-nlp/tree-of-thought-llm) - Deliberate Problem Solving with Large Language Models.
 - [WebArena](https://github.com/web-arena-x/webarena) - A Realistic Web Environment for Building Autonomous Agents.
 - [automata](https://github.com/emrgnt-cmplxty/automata) - Automata's objective is to evolve into a fully autonomous, self-programming Artificial Intelligence system.
 - [beebot](https://github.com/AutoPackAI/beebot) - An Autonomous AI Agent that works.
@@ -61,7 +60,6 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [loopgpt](https://github.com/farizrahman4u/loopgpt) - A re-implementation of the popular Auto-GPT project as a proper python package, written with modularity and extensibility in mind.
 - [mini-agi](https://github.com/muellerberndt/mini-agi) - A minimal general-purpose autonomous agent based on GPT-3.5 / GPT-4. Can analyze stock prices, perform network security tests, create art, and order pizza.
 - [rci-agent](https://github.com/posgnu/rci-agent) - RCI Agent for MiniWoB++
-- [reflexion](https://github.com/noahshinn024/reflexion) - Reflexion: Language Agents with Verbal Reinforcement Learning.
 
 ## Agent Platforms
 
@@ -261,8 +259,11 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [ReAct](https://github.com/ysymyth/ReAct) - Synergizing Reasoning and Acting in Language Models.
 - [ReWOO](https://github.com/billxbf/ReWOO) - Decoupling Reasoning from Observations for Efficient Augmented Language Models.
 - [SCoT](https://arxiv.org/abs/2305.06599) - Structured Chain-of-Thought Prompting for Code Generation.
-- [ToT](https://github.com/kyegomez/tree-of-thoughts) - tree-of-thoughts: Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%.
+- [SwiftSage](https://github.com/yuchenlin/swiftsage/) - A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks.
+- [ToT](https://github.com/kyegomez/tree-of-thoughts) - Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%.
+- [llm-reasoners](https://github.com/Ber666/llm-reasoners) - reasoning as planning (RAP), a library for advanced large language model reasoning.
 - [reflexion](https://github.com/noahshinn024/reflexion) - Reflexion: Language Agents with Verbal Reinforcement Learning.
+- [saycan](https://github.com/google-research/google-research/tree/master/saycan) - Do As I Can, Not As I Say: Grounding Language in Robotic Affordances.
 - [self-ask](https://github.com/ofirpress/self-ask) - Measuring and Narrowing the Compositionality Gap in Language Models.
 
 ## Research

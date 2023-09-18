@@ -18,6 +18,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [OpenAI Plugins](#openai-plugins)
 - [PR Agents](#pr-agents)
 - [Prompts Tuning](#prompts-tuning)
+- [Reasoning and Planning](#reasoning-planning)
 - [Research](#research)
 - [Search](#search)
 - [Security](#security)
@@ -74,7 +75,6 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [LLM-ToolMaker](https://github.com/ctlllll/LLM-ToolMaker) - Large Language Models as Tool Makers.
 - [OpenAGI](https://github.com/agiresearch/OpenAGI) - An open-source AGI research platform, specifically designed to offer complex, multi-step tasks and accompanied by task-specific datasets, evaluation metrics, and a diverse range of extensible models.
 - [PromethAI-Backend](https://github.com/topoteretes/PromethAI-Backend) - Open-source framework that gives you AI Agents that help you navigate decision-making, get personalized goals and execute them.
-- [ReWOO](https://github.com/billxbf/ReWOO) - Decoupling Reasoning from Observations for Efficient Augmented Language Models.
 - [SuperAGI](https://superagi.com/) Open source platform for hosting LLM-based agents including [SuperCoder](https://superagi.com/supercoder/).
 - [Superagent](https://github.com/homanp/superagent) - Build, deploy, and manage LLM-powered agents.
 - [ToolBench](https://github.com/OpenBMB/ToolBench) - An open platform for training, serving, and evaluating large language model for tool learning.
@@ -251,6 +251,16 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [YiVal](https://github.com/YiVal/YiVal) - 🚀 From Demo to Production.🚀 YiVal is an open source GenAI-Ops framework that allows you to iteratively tune and evaluate your AIGC prompts, model metadata, model params, and retrieval configs all at once with your preferred choices of test dataset generation, evaluation algorithms and improvement strategies.
 - [outlines](https://github.com/normal-computing/outlines) - Generative Model Programming.
 - [prompttools](https://github.com/hegelai/prompttools) - Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB).
+
+## Reasoning and Planning
+
+- [AoT](https://github.com/kyegomez/Algorithm-Of-Thoughts) - Algorithm of Thoughts: Enhancing Exploration of Ideas in Large Language Models.
+- [CoD](https://arxiv.org/abs/2309.04269) - From Sparse to Dense: GPT-4 Summarization with Chain of Density Prompting.
+- [CoT](https://arxiv.org/abs/2201.11903) - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models.
+- [GoT](https://github.com/spcl/graph-of-thoughts) - Graph of Thoughts: Solving Elaborate Problems with Large Language Models.
+- [ReWOO](https://github.com/billxbf/ReWOO) - Decoupling Reasoning from Observations for Efficient Augmented Language Models.
+- [SCoT](https://arxiv.org/abs/2305.06599) - Structured Chain-of-Thought Prompting for Code Generation.
+- [ToT](https://github.com/kyegomez/tree-of-thoughts) - tree-of-thoughts: Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%.
 
 ## Research
 

@@ -258,9 +258,12 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [CoD](https://arxiv.org/abs/2309.04269) - From Sparse to Dense: GPT-4 Summarization with Chain of Density Prompting.
 - [CoT](https://arxiv.org/abs/2201.11903) - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models.
 - [GoT](https://github.com/spcl/graph-of-thoughts) - Graph of Thoughts: Solving Elaborate Problems with Large Language Models.
+- [ReAct](https://github.com/ysymyth/ReAct) - Synergizing Reasoning and Acting in Language Models.
 - [ReWOO](https://github.com/billxbf/ReWOO) - Decoupling Reasoning from Observations for Efficient Augmented Language Models.
 - [SCoT](https://arxiv.org/abs/2305.06599) - Structured Chain-of-Thought Prompting for Code Generation.
 - [ToT](https://github.com/kyegomez/tree-of-thoughts) - tree-of-thoughts: Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%.
+- [reflexion](https://github.com/noahshinn024/reflexion) - Reflexion: Language Agents with Verbal Reinforcement Learning.
+- [self-ask](https://github.com/ofirpress/self-ask) - Measuring and Narrowing the Compositionality Gap in Language Models.
 
 ## Research
 

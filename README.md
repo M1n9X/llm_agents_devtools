@@ -165,6 +165,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [LASER](https://arxiv.org/abs/2309.08172) - LLM Agent with State-Space Exploration for Web Navigation.
 - [MetaGPT](https://github.com/geekan/MetaGPT) — The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo.
 - [Mind2Web](https://github.com/OSU-NLP-Group/Mind2Web) - Towards a Generalist Agent for the Web.
+- [MindAgent](https://arxiv.org/abs/2309.09971) - Emergent Gaming Interaction.
 - [RT-2](https://github.com/kyegomez/RT-2) - Robotic Transformer 2 (RT-2): The Vision-Language-Action Model.
 - [RoboAgent](https://github.com/robopen/roboagent/) - Towards Sample Efficient Robot Manipulation with Semantic Augmentations and Action Chunking.
 - [VoxPoser](https://voxposer.github.io/) - Composable 3D Value Maps for Robotic Manipulation with Language Models
@@ -245,6 +246,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 
 ## Prompts Tuning
 
+- [EvoPrompt](https://arxiv.org/abs/2309.08532) - Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers.
 - [Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating.
 - [LangGPT](https://github.com/yzfly/LangGPT) - LangGPT: Empowering everyone to become a prompt expert!🚀 Structured Prompt，结构化提示词。
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering.

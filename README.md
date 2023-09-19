@@ -187,6 +187,8 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [MAmmoTH](https://github.com/TIGER-AI-Lab/MAmmoTH) - Building Math Generalist Models through Hybrid Instruction Tuning.
 - [MFTCoder](https://github.com/codefuse-ai/MFTCoder) - An open-source project of CodeFuse for multitasking Code-LLMs(large language model for code tasks), which includes models, datasets, training codebases and inference guides.
 - [Magic](https://magic.dev/) — Company promising two products, an assistant and [LTM-1](https://magic.dev/blog/ltm-1), an underlying foundation model trained on code. Waitlist.
+- [MathGLM](https://github.com/THUDM/MathGLM) - GPT Can Solve Mathematical Problems Without a Calculator.
+- [NExT-GPT](https://github.com/NExT-GPT/NExT-GPT) - Any-to-Any Multimodal Large Language Model.
 - [Phind-CodeLlama-34B-v1](https://huggingface.co/Phind/Phind-CodeLlama-34B-v1) - Beating GPT-4 on HumanEval with a Fine-Tuned CodeLlama-34B.
 - [StarCoder](https://github.com/bigcode-project/starcoder) - A helpful coding assistant.
 - [TinyLlama](https://github.com/jzhang38/TinyLlama) - An open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.

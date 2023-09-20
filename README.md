@@ -208,6 +208,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 
 - [ALCE](https://github.com/princeton-nlp/ALCE) - Enabling Large Language Models to Generate Text with Citations.
 - [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Local knowledge based LLM (like ChatGLM) QA app with langchain.
+- [PDFTriage](https://arxiv.org/abs/2309.08872) - Question Answering over Long, Structured Documents.
 - [Robby-chatbot](https://github.com/yvann-hub/Robby-chatbot) - AI chatbot 🤖 for chat with CSV, PDF, TXT files 📄 and YTB videos 🎥 | using Langchain🦜 | OpenAI | Streamlit ⚡
 - [embedchain](https://github.com/embedchain/embedchain) - Framework to easily create LLM powered bots over any dataset.
 - [gpt-runner](https://github.com/nicepkg/gpt-runner) - Conversations with your files! Manage and run your AI presets!

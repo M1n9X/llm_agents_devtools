@@ -273,6 +273,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [ReAct](https://github.com/ysymyth/ReAct) - Synergizing Reasoning and Acting in Language Models.
 - [ReWOO](https://github.com/billxbf/ReWOO) - Decoupling Reasoning from Observations for Efficient Augmented Language Models.
 - [SCoT](https://arxiv.org/abs/2305.06599) - Structured Chain-of-Thought Prompting for Code Generation.
+- [Screws](https://github.com/kumar-shridhar/Screws/) -A Modular Framework for Reasoning with Revisions.
 - [SwiftSage](https://github.com/yuchenlin/swiftsage/) - A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks.
 - [ToT](https://github.com/kyegomez/tree-of-thoughts) - Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%.
 - [llm-reasoners](https://github.com/Ber666/llm-reasoners) - reasoning as planning (RAP), a library for advanced large language model reasoning.

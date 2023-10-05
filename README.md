@@ -177,7 +177,9 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 
 ## Evaluation
 
+- [GPT-Fathom](https://arxiv.org/abs/2309.16583) - Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond.
 - [InstructEval](https://github.com/princeton-nlp/InstructEval) - Evaluation suite for the systematic evaluation of instruction selection methods.
+- [SmartPlay](https://github.com/microsoft/SmartPlay) - A benchmark for Large Language Models (LLMs). It is designed to be easy to use, and to provide a wide variety of games to test agents on.
 - [instruct-eval](https://github.com/declare-lab/instruct-eval) - Quantitatively evaluate instruction-tuned models such as Alpaca and Flan-T5 on held-out tasks.
 
 ## Foundation Models
@@ -256,6 +258,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [EvoPrompt](https://arxiv.org/abs/2309.08532) - Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers.
 - [Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating.
 - [LangGPT](https://github.com/yzfly/LangGPT) - LangGPT: Empowering everyone to become a prompt expert!🚀 Structured Prompt，结构化提示词。
+- [Analogical Prompting](https://arxiv.org/abs/2310.01714) - A new prompting approach designed to automatically guide the reasoning process of large language models.
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering.
 - [YiVal](https://github.com/YiVal/YiVal) - 🚀 From Demo to Production.🚀 YiVal is an open source GenAI-Ops framework that allows you to iteratively tune and evaluate your AIGC prompts, model metadata, model params, and retrieval configs all at once with your preferred choices of test dataset generation, evaluation algorithms and improvement strategies.
 - [outlines](https://github.com/normal-computing/outlines) - Generative Model Programming.

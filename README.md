@@ -202,6 +202,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks.
 - [replit-code-v1-3b](https://huggingface.co/replit/replit-code-v1-3b) - A 2.7B Causal Language Model focused on Code Completion.
 - [streaming-llm](https://github.com/mit-han-lab/streaming-llm) - Efficient Streaming Language Models with Attention Sinks.
+- [viper](https://github.com/cvlab-columbia/viper) - ViperGPT: Visual Inference via Python Execution for Reasoning
 
 ## IDEs
 

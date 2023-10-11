@@ -92,12 +92,12 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 ## App Generators
 
 - [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) - Code out the entire app as you oversee the code being written.
-- [GPT Web App Generator](https://magic-app-generator.wasp-lang.dev/) - Generates a full-stack React/Node.js/Prisma/Wasp app from a short description.
 - [Literally anything](https://literallyanything.io) - HTML and JavaScript web app generator.
 - [OpenCopilot](https://github.com/openchatai/OpenCopilot) - AI Copilot for your own SaaS product. Open source AI sidekick for everyone.
 - [Pico](https://picoapps.xyz) - End-to-end micro app generator with instant deployment.
 - [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - PoC for a scalable dev tool that writes entire apps from scratch while the developer oversees the implementation.
 - [textbase](https://github.com/cofactoryai/textbase) - A simple framework for building AI chatbots.
+- [wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 
 ## Coding Assistants
 

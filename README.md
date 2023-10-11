@@ -85,6 +85,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [lagent](https://github.com/InternLM/lagent) - A lightweight framework for building LLM-based agents.
 - [openagent](https://github.com/dot-agent/openagent) - Microservices approach to AGI. Modular components for AI apps or AGI agents. (... and solving some wicked LLM problems like ⚡ 2X faster LLaMA 2)
 - [rivet](https://github.com/Ironclad/rivet) - AI agent and prompt chaining IDE and library.
+- [semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps.
 - [smart_agent](https://github.com/zzlgreat/smart_agent) - An open-source project offering a comprehensive library for deconstructing complex tasks and dispatching functions within a toolkit.
 - [toolformer-pytorch](https://github.com/lucidrains/toolformer-pytorch) - Language Models That Can Use Tools, by MetaAI.
 - [workgpt](https://github.com/team-openpm/workgpt) - A GPT agent framework for invoking APIs.
@@ -256,12 +257,13 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 
 ## Prompts Tuning
 
+- [Analogical Prompting](https://arxiv.org/abs/2310.01714) - A new prompting approach designed to automatically guide the reasoning process of large language models.
 - [EvoPrompt](https://arxiv.org/abs/2309.08532) - Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers.
 - [Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating.
 - [LangGPT](https://github.com/yzfly/LangGPT) - LangGPT: Empowering everyone to become a prompt expert!🚀 Structured Prompt，结构化提示词。
-- [Analogical Prompting](https://arxiv.org/abs/2310.01714) - A new prompting approach designed to automatically guide the reasoning process of large language models.
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering.
 - [YiVal](https://github.com/YiVal/YiVal) - 🚀 From Demo to Production.🚀 YiVal is an open source GenAI-Ops framework that allows you to iteratively tune and evaluate your AIGC prompts, model metadata, model params, and retrieval configs all at once with your preferred choices of test dataset generation, evaluation algorithms and improvement strategies.
+- [guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
 - [outlines](https://github.com/normal-computing/outlines) - Generative Model Programming.
 - [prompttools](https://github.com/hegelai/prompttools) - Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB).
 
@@ -296,7 +298,6 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 
 - [NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - An open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
 - [guardrails](https://github.com/ShreyaR/guardrails) - An open-source Python package for specifying structure and type, validating and correcting the outputs of large language models (LLMs).
-- [guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
 
 ## Shell Assistants
 

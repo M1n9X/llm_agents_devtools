@@ -228,6 +228,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [BrowserGPT](https://github.com/mayt/BrowserGPT) - Command your browser with GPT.
 - [Carbonate](https://carbonate.dev/) — End-to-end testing using natural language. Integrates into your existing test suite (currently Jest, PHPUnit and Python's unittest).
 - [DiffBlue](https://www.diffblue.com/) - Automatically generated unit tests for Java.
+- [LLMStack](https://github.com/trypromptly/LLMStack) - No-code platform to build generative AI apps, chatbots and agents with your data.
 - [LocalAI](https://github.com/go-skynet/LocalAI) - 🤖 Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, gpt4all, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others.
 - [Meticulous.ai](https://www.meticulous.ai/) - Automatically generated, automatically maintained end-to-end tests: as your app evolves so does your test suite.
 - [OctoMind](https://octomind.dev) - Auto-maintenance and generated browser-based end-to-end-tests integrated into Github Actions, Azure DevOps and more.

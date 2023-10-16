@@ -164,6 +164,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [GPTeam](https://github.com/101dotxyz/GPTeam) - An open-source multi-agent simulation.
 - [Generative Agents](https://github.com/joonspk-research/generative_agents) - Interactive Simulacra of Human Behavior.
 - [GeniA](https://github.com/genia-dev/GeniA) - Your Engineering Gen AI Team member 🧬🤖💻
+- [HumanoidAgents](https://github.com/humanoidagents/humanoidagents) - Humanoid Agents: Platform for Simulating Human-like Generative Agents.
 - [LASER](https://arxiv.org/abs/2309.08172) - LLM Agent with State-Space Exploration for Web Navigation.
 - [MetaGPT](https://github.com/geekan/MetaGPT) — The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo.
 - [Mind2Web](https://github.com/OSU-NLP-Group/Mind2Web) - Towards a Generalist Agent for the Web.

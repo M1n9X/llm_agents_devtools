@@ -68,7 +68,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [AutoGen](https://github.com/microsoft/autogen) - Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework.
 - [BOLAA](https://github.com/salesforce/BOLAA) - Benchmarking and Orchestrating LLM-augmented Autonomous Agents.
 - [E2B](https://www.e2b.dev/) — Open source cloud platform for hosting LLM-based agents. Supports [Smol Developer](https://github.com/smol-ai/developer).
-- [GeniA](https://github.com/genia-dev/GeniA) - Your Engineering Gen AI Team member 🧬🤖💻 
+- [GeniA](https://github.com/genia-dev/GeniA) - Your Engineering Gen AI Team member 🧬🤖💻
 - [Gentopia](https://github.com/Gentopia-AI/Gentopia) - Build AGI through Interaction of Specialized Agents.
 - [JARVIS](https://github.com/microsoft/JARVIS) - A system to connect LLMs with ML community.
 - [LLM-ToolMaker](https://github.com/ctlllll/LLM-ToolMaker) - Large Language Models as Tool Makers.
@@ -191,6 +191,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [CodeGeeX2](https://github.com/THUDM/CodeGeeX2) - A More Powerful Multilingual Code Generation Model.
 - [CodeGen](https://github.com/salesforce/CodeGen) - A family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
 - [CodeLlama](https://github.com/facebookresearch/codellama) - A family of large language models for code based on Llama 2 providing state-of-the-art performance among open models, infilling capabilities, support for large input contexts, and zero-shot instruction following ability for programming tasks.
+- [LM Studio](https://lmstudio.ai/) - Discover, download, and run local LLMs
 - [MAmmoTH](https://github.com/TIGER-AI-Lab/MAmmoTH) - Building Math Generalist Models through Hybrid Instruction Tuning.
 - [MFTCoder](https://github.com/codefuse-ai/MFTCoder) - An open-source project of CodeFuse for multitasking Code-LLMs(large language model for code tasks), which includes models, datasets, training codebases and inference guides.
 - [Magic](https://magic.dev/) — Company promising two products, an assistant and [LTM-1](https://magic.dev/blog/ltm-1), an underlying foundation model trained on code. Waitlist.
@@ -200,6 +201,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [StarCoder](https://github.com/bigcode-project/starcoder) - A helpful coding assistant.
 - [TinyLlama](https://github.com/jzhang38/TinyLlama) - An open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.
 - [WizardCoder](https://github.com/nlpxucan/WizardLM/tree/main/WizardCoder) - Empowering Code Large Language Models with Evol-Instruct.
+- [gpt4all](https://github.com/nomic-ai/gpt4all) - open-source LLM chatbots that you can run anywhere.
 - [gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models.
 - [incoder](https://github.com/dpfried/incoder) - A Generative Model for Code Infilling and Synthesis.
 - [litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Azure, OpenAI, Cohere, Anthropic, Ollama, VLLM, Sagemaker, HuggingFace, Replicate (100+ LLMs)

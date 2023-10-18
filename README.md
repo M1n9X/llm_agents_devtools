@@ -68,6 +68,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [AutoGen](https://github.com/microsoft/autogen) - Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework.
 - [BOLAA](https://github.com/salesforce/BOLAA) - Benchmarking and Orchestrating LLM-augmented Autonomous Agents.
 - [E2B](https://www.e2b.dev/) — Open source cloud platform for hosting LLM-based agents. Supports [Smol Developer](https://github.com/smol-ai/developer).
+- [GeniA](https://github.com/genia-dev/GeniA) - Your Engineering Gen AI Team member 🧬🤖💻 
 - [Gentopia](https://github.com/Gentopia-AI/Gentopia) - Build AGI through Interaction of Specialized Agents.
 - [JARVIS](https://github.com/microsoft/JARVIS) - A system to connect LLMs with ML community.
 - [LLM-ToolMaker](https://github.com/ctlllll/LLM-ToolMaker) - Large Language Models as Tool Makers.

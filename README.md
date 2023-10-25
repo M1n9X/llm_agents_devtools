@@ -73,12 +73,12 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [JARVIS](https://github.com/microsoft/JARVIS) - A system to connect LLMs with ML community.
 - [LLM-ToolMaker](https://github.com/ctlllll/LLM-ToolMaker) - Large Language Models as Tool Makers.
 - [OpenAGI](https://github.com/agiresearch/OpenAGI) - An open-source AGI research platform, specifically designed to offer complex, multi-step tasks and accompanied by task-specific datasets, evaluation metrics, and a diverse range of extensible models.
+- [OpenAgents](https://github.com/xlang-ai/OpenAgents) - An Open Platform for Language Agents in the Wild
 - [PromethAI-Backend](https://github.com/topoteretes/PromethAI-Backend) - Open-source framework that gives you AI Agents that help you navigate decision-making, get personalized goals and execute them.
 - [SuperAGI](https://superagi.com/) Open source platform for hosting LLM-based agents including [SuperCoder](https://superagi.com/supercoder/).
 - [Superagent](https://github.com/homanp/superagent) - Build, deploy, and manage LLM-powered agents.
 - [ToolBench](https://github.com/OpenBMB/ToolBench) - An open platform for training, serving, and evaluating large language model for tool learning.
 - [XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving.
-- [XLang](https://github.com/xlang-ai/xlang) - An Open-Source Framework for Building Language Model Agents via Executable Language Grounding.
 - [agents](https://github.com/aiwaves-cn/agents) - An Open-source Framework for Autonomous Language Agents.
 - [ai-legion](https://github.com/eumemic/ai-legion) - An LLM-powered autonomous agent platform.
 - [chidori](https://github.com/ThousandBirdsInc/chidori) - A reactive runtime for building durable AI agents.
@@ -222,6 +222,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Local knowledge based LLM (like ChatGLM) QA app with langchain.
 - [PDFTriage](https://arxiv.org/abs/2309.08872) - Question Answering over Long, Structured Documents.
 - [Robby-chatbot](https://github.com/yvann-hub/Robby-chatbot) - AI chatbot 🤖 for chat with CSV, PDF, TXT files 📄 and YTB videos 🎥 | using Langchain🦜 | OpenAI | Streamlit ⚡
+- [Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate.
 - [embedchain](https://github.com/embedchain/embedchain) - Framework to easily create LLM powered bots over any dataset.
 - [gpt-runner](https://github.com/nicepkg/gpt-runner) - Conversations with your files! Manage and run your AI presets!
 - [khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain. Khoj provides you with an easy way to setup the infrastructure to search and chat with your personal knowledge base, be it markdown, org, image, or PDF files.

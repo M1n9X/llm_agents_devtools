@@ -144,6 +144,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 
 - [ACT-R](http://act-r.psy.cmu.edu/) - Adaptive Control of Thought—Rational.
 - [CoALA](https://github.com/ysymyth/awesome-language-agents) - Cognitive Architectures for Language Agents.
+- [MemGPT](https://github.com/cpacker/MemGPT) - Teaching LLMs memory management for unbounded context 📚🦙
 - [Soar](https://github.com/SoarGroup/Soar) - A general cognitive architecture for systems that exhibit intelligent behavior.
 
 ## Digital Humans

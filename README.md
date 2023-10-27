@@ -45,6 +45,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [GitWit](https://gitwit.dev/) — Web-based agent for adding features to full-stack apps in Git repositories.
 - [Gorilla](https://github.com/ShishirPatil/gorilla) - Large Language Model Connected with Massive APIs.
 - [Grit](https://app.grit.io) - GitHub-integrated agent for automating maintenance tasks and other development work.
+- [Muzic](https://github.com/microsoft/muzic) - Music Understanding and Generation with Artificial Intelligence.
 - [SalesGPT](https://github.com/filip-michalsky/SalesGPT) - Context-aware AI Sales Agent to automate sales outreach.
 - [Second.dev](https://www.second.dev/) — A platform for adding features to full-stack apps.
 - [ShortGPT](https://github.com/RayVentura/ShortGPT) - Experimental AI framework for automated short/video content creation.

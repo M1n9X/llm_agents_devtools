@@ -100,6 +100,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [OpenCopilot](https://github.com/openchatai/OpenCopilot) - AI Copilot for your own SaaS product. Open source AI sidekick for everyone.
 - [Pico](https://picoapps.xyz) - End-to-end micro app generator with instant deployment.
 - [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - PoC for a scalable dev tool that writes entire apps from scratch while the developer oversees the implementation.
+- [react-agent](https://github.com/eylonmiz/react-agent) - The open-source React.js Autonomous LLM Agent.
 - [textbase](https://github.com/cofactoryai/textbase) - A simple framework for building AI chatbots.
 - [wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 

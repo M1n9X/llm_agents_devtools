@@ -27,6 +27,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 
 ## Agents
 
+- [Adala](https://github.com/HumanSignal/Adala) - Autonomous DAta (Labeling) Agent framework.
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) — An experimental open-source attempt to make GPT-4 fully autonomous.
 - [BabyAGI](https://github.com/yoheinakajima/babyagi) — An AI-powered task management system.

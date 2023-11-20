@@ -195,6 +195,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [CodeGeeX2](https://github.com/THUDM/CodeGeeX2) - A More Powerful Multilingual Code Generation Model.
 - [CodeGen](https://github.com/salesforce/CodeGen) - A family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
 - [CodeLlama](https://github.com/facebookresearch/codellama) - A family of large language models for code based on Llama 2 providing state-of-the-art performance among open models, infilling capabilities, support for large input contexts, and zero-shot instruction following ability for programming tasks.
+- [DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - Let the Code Write Itself.
 - [LM Studio](https://lmstudio.ai/) - Discover, download, and run local LLMs
 - [MAmmoTH](https://github.com/TIGER-AI-Lab/MAmmoTH) - Building Math Generalist Models through Hybrid Instruction Tuning.
 - [MFTCoder](https://github.com/codefuse-ai/MFTCoder) - An open-source project of CodeFuse for multitasking Code-LLMs(large language model for code tasks), which includes models, datasets, training codebases and inference guides.

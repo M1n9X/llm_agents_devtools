@@ -43,6 +43,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [Factory](https://www.factory.ai/) — Agents for code generation. Waitlisted.
 - [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) — CLI agent that generates a repository from a prompt, and asks clarifying questions.
 - [GPT Migrate](https://github.com/0xpayne/gpt-migrate) — CLI agent that converts a full-stack application from one language or framework to another. Uses GPT-4 32k context.
+- [GeneralAgent](https://github.com/CosmosShadow/GeneralAgent) - A simple, general, customizable Agent Framework.
 - [GitWit](https://gitwit.dev/) — Web-based agent for adding features to full-stack apps in Git repositories.
 - [Gorilla](https://github.com/ShishirPatil/gorilla) - Large Language Model Connected with Massive APIs.
 - [Grit](https://app.grit.io) - GitHub-integrated agent for automating maintenance tasks and other development work.

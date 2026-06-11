@@ -88,6 +88,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [ai-legion](https://github.com/eumemic/ai-legion) - An LLM-powered autonomous agent platform.
 - [chidori](https://github.com/ThousandBirdsInc/chidori) - A reactive runtime for building durable AI agents.
 - [databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents.
+- [issue-orchestrator](https://github.com/BruceBGordon/issue-orchestrator) - Orchestrates Claude, Codex, and Gemini agents across GitHub issues in isolated worktrees, with enforced validation/review gates, crash recovery, and human merge authority.
 - [ix](https://github.com/kreneskyp/ix) - Autonomous GPT-4 agent platform.
 - [lagent](https://github.com/InternLM/lagent) - A lightweight framework for building LLM-based agents.
 - [openagent](https://github.com/dot-agent/openagent) - Microservices approach to AGI. Modular components for AI apps or AGI agents. (... and solving some wicked LLM problems like ⚡ 2X faster LLaMA 2)

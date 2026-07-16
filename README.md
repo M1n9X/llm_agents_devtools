@@ -311,6 +311,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - OpenBB is committed to build the future of investment research by focusing on an open source infrastructure accessible to everyone, everywhere.
 - [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic.
 - [qlib](https://github.com/microsoft/qlib) - An AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions.
+- [Agon](https://github.com/AutoResearch-Factory/Agon) - Autonomous research system built on Prompt Economy, scaling scientist/coder/auditor loops across more than ten domains.
 
 ## Security
 

@@ -189,6 +189,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 
 ## Evaluation
 
+- [ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) - A benchmark and harness for evaluating AI web agents on 283 real-world tasks across live websites with replayable execution traces.
 - [GPT-Fathom](https://arxiv.org/abs/2309.16583) - Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond.
 - [InstructEval](https://github.com/princeton-nlp/InstructEval) - Evaluation suite for the systematic evaluation of instruction selection methods.
 - [SmartPlay](https://github.com/microsoft/SmartPlay) - A benchmark for Large Language Models (LLMs). It is designed to be easy to use, and to provide a wide variety of games to test agents on.

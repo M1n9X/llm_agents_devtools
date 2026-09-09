@@ -194,6 +194,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [GPT-Fathom](https://arxiv.org/abs/2309.16583) - Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond.
 - [InstructEval](https://github.com/princeton-nlp/InstructEval) - Evaluation suite for the systematic evaluation of instruction selection methods.
 - [SmartPlay](https://github.com/microsoft/SmartPlay) - A benchmark for Large Language Models (LLMs). It is designed to be easy to use, and to provide a wide variety of games to test agents on.
+- [YYLO Benchmark](https://github.com/yylo-dev/yylo-benchmark) - Longitudinal evaluation and immutable evidence for agent runs: task prompts execute in private fresh-repository attempt workspaces, judged by deterministic commands and configurable LLM judges, with receipts, manifests, and provenance hashes retained as evidence.
 - [instruct-eval](https://github.com/declare-lab/instruct-eval) - Quantitatively evaluate instruction-tuned models such as Alpaca and Flan-T5 on held-out tasks.
 
 ## Foundation Models

@@ -245,7 +245,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 ## LLMOps
 
 - [AGiXT](https://github.com/Josh-XT/AGiXT) - A dynamic AI Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers.
-- [Agent QA](https://github.com/vostride/agent-qa) - Source-available QA agent for natural-language web and mobile tests, with persistent test memory, self-healing flows, and CLI/MCP interfaces.
+- [Agent QA](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web and mobile tests, with persistent test memory, UI-change adaptation, and CLI/MCP interfaces.
 - [BrowserGPT](https://github.com/mayt/BrowserGPT) - Command your browser with GPT.
 - [Carbonate](https://carbonate.dev/) — End-to-end testing using natural language. Integrates into your existing test suite (currently Jest, PHPUnit and Python's unittest).
 - [DiffBlue](https://www.diffblue.com/) - Automatically generated unit tests for Java.

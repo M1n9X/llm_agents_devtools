@@ -48,6 +48,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [Gorilla](https://github.com/ShishirPatil/gorilla) - Large Language Model Connected with Massive APIs.
 - [Grit](https://app.grit.io) - GitHub-integrated agent for automating maintenance tasks and other development work.
 - [HyperWrite](https://www.hyperwriteai.com/personal-assistant) -  Personal Assistant — AI Agent
+- [ImagineYourBook](https://www.imagineyourbook.com/) - Book-writing agent that plans a whole book, then drafts it chapter by chapter while keeping a story bible of characters and plot threads for continuity.
 - [Muzic](https://github.com/microsoft/muzic) - Music Understanding and Generation with Artificial Intelligence.
 - [SalesGPT](https://github.com/filip-michalsky/SalesGPT) - Context-aware AI Sales Agent to automate sales outreach.
 - [Second.dev](https://www.second.dev/) — A platform for adding features to full-stack apps.

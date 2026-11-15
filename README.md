@@ -336,6 +336,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 - [Bloop](https://bloop.ai/) — Natural language search for repositories.
 - [Buildt](https://www.buildt.ai/) — Natural language search for repositories.
 - [Datacircle](https://datacircle.dev) - Find the best GTM APIs. Our open API at [api.datacircle.dev/v1](https://api.datacircle.dev/v1) lists every API and who is best for each.
+- [GetYouTubeTranscript](https://getyoutubetranscript.com/developers) - YouTube transcript and search API with a hosted MCP server, so agents can read, search and cite YouTube videos.
 - [Metaphor](https://metaphor.systems/) - A search engine designed from scratch using AI.
 - [PandasAI](https://github.com/gventuri/pandas-ai) - A Python library that integrates generative artificial intelligence capabilities into pandas, making dataframes conversational.
 - [Perplexity](https://www.perplexity.ai/) - Unlock the power of knowledge with information discovery and sharing.

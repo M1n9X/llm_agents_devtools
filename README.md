@@ -102,6 +102,7 @@ This is a curated list of autonomous agents and developer tools powered by LLM.
 
 ## App Generators
 
+- [DESIGN:OS CLI](https://github.com/jangtrinh/design-os) - Free design CLI and agent skills for Claude Code, Codex and Gemini CLI: describe a UI in plain words, get web or SwiftUI code that only counts as done after deterministic taste and accessibility gates pass. Source-available (PolyForm Shield).
 - [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) - Code out the entire app as you oversee the code being written.
 - [Literally anything](https://literallyanything.io) - HTML and JavaScript web app generator.
 - [OpenCopilot](https://github.com/openchatai/OpenCopilot) - AI Copilot for your own SaaS product. Open source AI sidekick for everyone.
